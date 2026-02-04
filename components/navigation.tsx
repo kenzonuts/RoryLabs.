@@ -25,11 +25,10 @@ export function Navigation() {
             <Image 
               src="/logo.png" 
               alt="RoryLabs Logo" 
-              width={32} 
-              height={32} 
-              className="w-8 h-8 object-contain"
+              width={56} 
+              height={56} 
+              className="w-14 h-14 object-contain"
             />
-            <span className="text-foreground">RoryLabs</span>
           </Link>
 
           {/* Desktop Navigation */}
